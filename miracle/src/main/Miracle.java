@@ -30,6 +30,6 @@ public class Miracle {
             }
         } while (gamer.getLives() > 0 && maskedWord.isMaskedLetter());
 
-        UIUtil.print( gamer.getLives() > 0 ? "You win" : "You lose");
+        UIUtil.print( gamer.getLives() > 0 ? "You win, the word is: " + word : "You lose");
     }
 }
