@@ -1,10 +1,10 @@
 "# miracle" 
 
-Программа Поле Чудес
+"Field of Miracles" program
 
-Слова лежат в файле на диске.
-Программа выбирает слово из файла.
-Показывает количество букв и просит угадать букву.
-Если правильно, то отображает её в нужной позиции.
-Если нет, то теряется одна жизнь.
-Всего 6 жизней, если игрок проиграл, то происходит выход из программы.
+The words are in a file on the disk.
+The program selects a word from a file.
+Shows the number of letters and asks you to guess the letter.
+If correct, it displays it in the correct position.
+If not, then one life is lost.
+Only 6 lives, if the player lost, then the program exits.
